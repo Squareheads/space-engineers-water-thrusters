@@ -1,0 +1,3 @@
+This mod depends on Jakaris Water mod https://steamcommunity.com/workshop/filedetails/?id=2200451495
+It deactivates thrusters (vanilla and modded) when they are submerged in water.
+It adds "Waterthrusters" which look - for the lack of a model - exactly the same as atmospheric thruster but work while submerged and get switched off when not submerged.
